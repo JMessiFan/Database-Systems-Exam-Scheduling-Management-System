@@ -1,5 +1,4 @@
 # Database Systems Exam Management System
-This project is a web-based application developed to manage exam schedules and student information for a particular university in that particular semester under the Faculty of Computer Science.
 
 ## Features
 - Schedule exams and manage exam dates, times, invigilators and locations.
