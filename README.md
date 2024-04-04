@@ -1,11 +1,13 @@
 # Database Systems Exam Management System
 
 ## Features
-- Schedule exams and manage exam dates, times, invigilators and locations.
-- Maintain student records, including registration information and student attendance.
+- Effortless exam scheduling: Seamlessly arrange exam dates, times, invigilators, and locations.
+- Comprehensive student management: Maintain detailed student records, including registration details and attendance tracking.
+- Centralized venue management: Ensure optimal exam environments by managing various room types and facilities.
+- Customized exam types: Create and administer different types of exams, such as lab, midterm, and finals, with ease.
 
 ## Technologies Used
-- SQL (Structured Query Language)
-- PHP (Hypertext Preprocessor)
-- XAMPP (Cross-Platform Apache, MySQL, PHP, and Perl)
+- SQL 
+- PHP 
+- XAMPP (Cross-Platform Apache, MySQL, PHP)
 
